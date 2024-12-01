@@ -29,18 +29,21 @@
 }
 
 .recipes__videos {
+  margin: 0;
+  padding-left: 0;
   display: flex;
   justify-content: center;
   gap: 40px;
   list-style-type: none;
 }
 
-.recipes_video-caption {
+.recipes__video-caption {
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
 }
 
 .recipes__iframe {

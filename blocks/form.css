@@ -26,6 +26,7 @@
   border: 1px solid #838383;
   border-radius: 4px;
   color: #000;
+  min-height: 60px;
 }
 
 .form__button {
@@ -59,6 +60,7 @@
   display: flex;
   gap: 12px;
   justify-content: center;
+  align-items: center;
 }
 
 .form__label::placeholder {
